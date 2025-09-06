@@ -1,5 +1,7 @@
 ****CNN Waste Segregation****
+
 **Table of Contents**
+
 Introduction
 
 Business Problem
