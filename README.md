@@ -39,13 +39,21 @@ Unexpectedly, the model accuracy has dropped using augmented data. This needs to
 **Technologies Used**
 
 seaborn 0.11.1
+
 jupyter 1.0.0
+
 numpy 1.20.1
+
 anaconda 2021.05
+
 python 3.8.8
+
 matplotlib 3.3.4
+
 tensorflow 2.19.1
+
 Dataset
+
 All images of waste material is available under the following link https://drive.google.com/file/d/1j2dDF3CGA8DsucDfNySNu1lklLa8Tsgr/view?usp=sharing
 
 **Contact**
