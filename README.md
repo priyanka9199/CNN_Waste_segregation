@@ -1,1 +1,1 @@
-**CNN Waste Segregation**
+***CNN Waste Segregation***
