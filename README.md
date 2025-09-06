@@ -1,4 +1,4 @@
-<h1>CNN Waste Segregation<h1>
+<h2>CNN Waste Segregation<h2>
 
 
 
