@@ -1,6 +1,6 @@
-**CNN Waste Segregation**
+<h1>CNN Waste Segregation<h1>
 
-**Table of Contents**
+
 
 **Introduction**
 
@@ -50,4 +50,4 @@ All images of waste material is available under the following link https://drive
 
 **Contact**
 
-Created by priyanka91999 - feel free to contact me!
+Created by priyanka9199 - feel free to contact me!
