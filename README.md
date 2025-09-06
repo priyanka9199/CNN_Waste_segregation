@@ -1,11 +1,10 @@
-<HH>#CNN Waste Segregation<HH>
+**CNN Waste Segregation**
 
 **Table of Contents**
 
-Introduction
+**Introduction**
 
 Business Problem
-
 Objective
 
 Key business benefits
